@@ -1,0 +1,61 @@
+
+p {
+	border: 2px solid powderblue;
+	background-color:gray;
+	border-color:pink;
+}
+
+h2 {
+	font-size: 60px;
+	h1 {
+		color: blue;
+		font-family: verdana;
+		font-size: 300%;
+	}
+p {
+	color: red;
+	font-family: courier;
+	font-size: 160%;
+}
+}
+	.row {
+	border:1px solid black;
+}
+		
+		.collapse {
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+.border{
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+.dotted{
+	border-style: dotted;
+}
+.Column{
+	border:1px solid black;
+}
+
+.width{
+	border:1px solid black;
+	border-collapse: collapse;
+}
+
+ 
+.colspan2{
+
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.rowspan2{
+	border:1px solid black;
+} 
+.header{
+	border: 1px solid black;
+}
+.Cellpadding{
+	border: 1px solid black;
+	padding: 15px;
